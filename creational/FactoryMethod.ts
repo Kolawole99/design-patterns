@@ -1,4 +1,11 @@
 /**
+ * Factory Method allows you to produce a family of objects by abstracting away their creation
+ * process through an interface without specifying which object to create. It then takes advantages of
+ * Polymorphism to allow sub-classes to produce those objects of different types.
+ *
+ */
+
+/**
  * The Product interface declares the operations that all concrete products must
  * implement.
  */
