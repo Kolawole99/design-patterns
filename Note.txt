@@ -1,0 +1,40 @@
+Creational patterns
+These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code.
+Factory Method
+Abstract Factory
+Builder
+Prototype
+Singleton
+
+
+Structural patterns
+These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+
+
+Behavioral patterns
+These patterns are concerned with algorithms and the assignment of responsibilities between objects.
+Chain of Responsibility
+Command
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template Method
+Visitor
+
+
+Adaptor, Facade, Proxy and Decorator pattern are closely confused.
+
+Performant code is readable for computers but clean code is more abstracted and human readable.
+
+Abstraction (also called interface) is a high-level control layer for some entity.
+This layer isn’t supposed to do any real work on its own. It should delegate the work to the implementation layer (also called platform)
